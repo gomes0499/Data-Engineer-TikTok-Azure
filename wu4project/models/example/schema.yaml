@@ -1,0 +1,31 @@
+version: 2
+
+models:
+  - name: synapses
+    description: "This view processes synapse data and adds a sentiment label based on the confidence score."
+    columns:
+      - name: id
+        description: "Comment ID"
+        tests:
+          - not_null
+          - unique
+      - name: user_id
+        description: "User ID"
+      - name: video_id
+        description: "Video ID"
+      - name: confidence_score
+        description: "Confidence score of the sentiment analysis"
+        tests:
+          - not_null
+      - name: sentiment
+        description: "Sentiment result of the comment"
+        tests:
+          - not_null
+      - name: created_at
+        description: "Timestamp when the event was created"
+        tests:
+          - not_null
+      - name: sentiment_label
+        description: "Derived sentiment label based on the confidence score"
+        tests:
+          - not_null

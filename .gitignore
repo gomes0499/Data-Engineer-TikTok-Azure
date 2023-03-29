@@ -1,0 +1,10 @@
+.DS_Store
+.terraform
+config
+logs
+terraform.tfstate
+4-Project-Agile-Development.pdf
+.terraform.lock.hcl
+.python_packages
+__pycache__
+.venv
