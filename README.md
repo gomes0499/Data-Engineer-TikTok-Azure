@@ -1,4 +1,4 @@
-# 4.Data-Engineer - TikTok - Study Case
+# Data-Engineer - TikTok - Study Case
 
 ## TikTok
 
