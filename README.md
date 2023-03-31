@@ -1,6 +1,6 @@
-# 4.Data-Engineer - Tiktok - Study Case
+# 4.Data-Engineer - TikTok - Study Case
 
-## Tiktok
+## TikTok
 
 The project aims to build a real-time analytics and sentiment analysis system for TikTok videos using Azure services. This will help businesses and content creators gauge the performance and sentiment of their videos, allowing them to tailor their content strategies and improve audience engagement.
 
