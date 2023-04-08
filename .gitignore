@@ -8,3 +8,4 @@ terraform.tfstate
 .python_packages
 __pycache__
 .venv
+dummy-data.py
