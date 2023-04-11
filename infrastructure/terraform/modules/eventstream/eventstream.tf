@@ -69,7 +69,7 @@ resource "azurerm_stream_analytics_output_blob" "example" {
   stream_analytics_job_name = "wu4streamjob"
   resource_group_name       = "wu4group"
   storage_account_name      = "wu4storage"
-  storage_account_key       = "xuy+6wTCKeB7q52bDC/4kuw5m/r1ZZsEQmMN7rbTDHTweODfrClPo6rhCNOMQnK5zduBBY+0lclB+AStOgQvLw=="
+  storage_account_key       = "*"
   storage_container_name    = "datalake"
   path_pattern              = "raw/{date}/{time}"
   date_format               = "yyyy-MM-dd"
