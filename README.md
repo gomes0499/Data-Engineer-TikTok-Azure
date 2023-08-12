@@ -20,7 +20,7 @@ The project aims to build a real-time analytics and sentiment analysis system fo
 
 ### Pipeline Diagram
 
-![alt text](https://github.com/makima0499/4.Data-Engineer/blob/main/4.DataPipeline.png)
+![alt text](https://github.com/makima0499/4.Data-Engineer/blob/main/TikTOk.png)
 
 ### Tools
 
